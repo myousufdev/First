@@ -5,10 +5,15 @@
 📞 CONTACT:
 
 📍 Location: Bogura, Bangladesh
+
 📱 Phone: +8801754954385
+
 📧 Email: mdyousufali.dev@gmail.com
+
 🌐 Portfolio: yousufali-portfolio.vercel.app
+
 🐙 GitHub: github.com/yousufali156
+
 💼 LinkedIn: linkedin.com/in/yousufali156
 
 
@@ -21,8 +26,11 @@ A passionate Full Stack Web Developer with expertise in creating dynamic and res
 
 🎨 Frontend Development:
 ⚛️ React.js, Next.js
+
 📜 JavaScript (ES6+), TypeScript
+
 🖌️ HTML5, CSS3, Tailwind CSS
+
 
 🖥️ Backend Development:
 
@@ -32,11 +40,13 @@ A passionate Full Stack Web Developer with expertise in creating dynamic and res
 
 🔑 JWT Authentication
 
+
 🗄️ Databases:
 
 🍃 MongoDB
 
 🔥 Firebase Firestore
+
 
 🛠️ Tools & Deployment:
 
@@ -50,6 +60,7 @@ A passionate Full Stack Web Developer with expertise in creating dynamic and res
 
 📦 Webpack, npm
 
+
 🤖 AI & Automation:
 
 ✍️ Prompt Engineering
@@ -57,6 +68,7 @@ A passionate Full Stack Web Developer with expertise in creating dynamic and res
 🔮 OpenAI API, AI Tools Integration
 
 💬 ChatGPT, Gemini, Copilot
+
 
 ⚡ UI/UX & Performance:
 
@@ -70,6 +82,7 @@ A passionate Full Stack Web Developer with expertise in creating dynamic and res
 
 🔍 SEO Best Practices
 
+
 💡 Soft Skills:
 
 🤝 Teamwork & Collaboration
@@ -81,6 +94,8 @@ A passionate Full Stack Web Developer with expertise in creating dynamic and res
 ⏰ Time Management
 
 🎯 Mentorship
+
+
 
 🚀 PROJECTS
 🗨️ DevTalks - Interactive MERN Stack Forum Platform with Role-Based Access
@@ -98,6 +113,7 @@ A passionate Full Stack Web Developer with expertise in creating dynamic and res
 💳 Stripe payment integration
 ⚙️ Tech Stack: React.js | Stripe | Firebase Auth | Node.js | Express.js | MongoDB | JWT | Vercel
 
+
 📚 CourseHub - Comprehensive Course Management Platform
 
 🔗 LIVE DEMO
@@ -110,6 +126,7 @@ A passionate Full Stack Web Developer with expertise in creating dynamic and res
 
 🗄️ Secure course management using MongoDB aggregation
 ⚙️ Tech Stack: React.js | Firebase Auth | Node.js | Express.js | MongoDB | JWT | Vercel
+
 
 💼 Task Match - Freelance Task Marketplace with Real-Time Bidding
 
@@ -124,6 +141,7 @@ A passionate Full Stack Web Developer with expertise in creating dynamic and res
 🔄 Real-time bid count & task status updates
 ⚙️ Tech Stack: React.js | Tailwind CSS | Node.js | Express.js | MongoDB | Firebase Auth | JWT | Vercel
 
+
 🎨 PortfoGen - Modern CV Generator with Live Preview & Themes
 
 🔗 LIVE DEMO
@@ -137,6 +155,7 @@ A passionate Full Stack Web Developer with expertise in creating dynamic and res
 📱 Mobile-friendly SPA with smooth performance
 ⚙️ Tech Stack: React.js (Vite) | Tailwind CSS | DaisyUI | react-icons | Netlify | Framer Motion
 
+
 🎓 EDUCATION
 
 🎓 Master of Social Science (MSS) in Economics
@@ -145,11 +164,13 @@ A passionate Full Stack Web Developer with expertise in creating dynamic and res
 
 📅 Passing-Year: 2023
 
+
 🌐 LANGUAGES
 
 🇧🇩 Bangla: Native
 
 🇬🇧 English: Intermediate
+
 
 🏷️ TAGS
 
@@ -157,6 +178,8 @@ A passionate Full Stack Web Developer with expertise in creating dynamic and res
 #NodeJS #ExpressJS #MongoDB #JavaScript #TypeScript
 #TailwindCSS #yousufali156 #myousufdev #yousufali
 #yousuf156 #mdyousufali
+
+
 
 👨‍💻 Developed By
 
