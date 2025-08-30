@@ -9,9 +9,9 @@
 -   **Location:** Bogura, Bangladesh
 -   **Phone:** [+8801754954385](tel:+8801754954385)
 -   **Email:** [mdyousufali.dev@gmail.com](mailto:mdyousufali.dev@gmail.com)
--   **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
--   **GitHub:** [github.com/your-username](https://github.com/your-username)
--   **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
+-   **Portfolio:** [https://yousufali-portfolio.vercel.app](https://yousufali-portfolio.vercel.app)
+-   **GitHub:** [https://github.com/yousufali156](https://github.com/yousufali156)
+-   **LinkedIn:** [https://linkedin.com/in/yousufali156](https://linkedin.com/in/yousufali156)
 
 ---
 
@@ -77,3 +77,10 @@ A passionate Full Stack Web Developer with expertise in creating dynamic and res
 ### TAGS
 
 `#FullStackDeveloper` `#WebDeveloper` `#ReactJS` `#NextJS` `#NodeJS` `#ExpressJS` `#MongoDB` `#JavaScript` `#TypeScript` `#TailwindCSS` `#yousufali156` `#myousufdev` `#yousufali` `#yousuf156` `#mdyousufali`
+
+
+
+##Developed By 
+
+MD. YOUSUF ALI [https://yousufali-portfolio.vercel.app](https://yousufali-portfolio.vercel.app)
+
