@@ -119,4 +119,4 @@ I enjoy solving complex problems and continuously learning new technologies. <br
 
 👨‍💻 Developed By
 
-[MD. YOUSUF ALI] 🌐 [yousufali-portfolio.vercel.app](https://yousufali-portfolio.vercel.app)
+[MD. YOUSUF ALI] 🌐 (https://yousufali-portfolio.vercel.app)
