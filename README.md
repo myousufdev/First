@@ -1,31 +1,27 @@
 👋 Md. Yousuf Ali
+
 💻 Full Stack Web Developer
-📞 CONTACT
+
+📞 CONTACT:
 
 📍 Location: Bogura, Bangladesh
-
 📱 Phone: +8801754954385
-
 📧 Email: mdyousufali.dev@gmail.com
-
 🌐 Portfolio: yousufali-portfolio.vercel.app
-
 🐙 GitHub: github.com/yousufali156
-
 💼 LinkedIn: linkedin.com/in/yousufali156
+
 
 👨‍💻 ABOUT ME
 
 A passionate Full Stack Web Developer with expertise in creating dynamic and responsive web applications. Proficient in both frontend and backend technologies, with a strong focus on performance and user experience. I enjoy solving complex problems and continuously learning new technologies.
 
+
 💼 SKILLS
 
 🎨 Frontend Development:
-
 ⚛️ React.js, Next.js
-
 📜 JavaScript (ES6+), TypeScript
-
 🖌️ HTML5, CSS3, Tailwind CSS
 
 🖥️ Backend Development:
