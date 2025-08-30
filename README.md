@@ -5,15 +5,10 @@
 📞 CONTACT
 
 📍 Location: Bogura, Bangladesh <br>
-📱 Phone: +8801754954385
- <br>
-📧 Email: mdyousufali.dev@gmail.com
- <br>
-🌐 Portfolio: yousufali-portfolio.vercel.app
- <br>
-🐙 GitHub: github.com/yousufali156
- <br>
-💼 LinkedIn: linkedin.com/in/yousufali156
+📧 Email: [mdyousufali.dev@gmail.com](mailto:mdyousufali.dev@gmail.com)   <br>
+🌐 Portfolio: [yousufali-portfolio.vercel.app](https://yousufali-portfolio.vercel.app)   <br>
+🐙 GitHub: [github.com/yousufali156](https://github.com/yousufali156)   <br>
+💼 LinkedIn: [linkedin.com/in/yousufali156](https://linkedin.com/in/yousufali156)  
  <br>
 
 👨‍💻 ABOUT ME
@@ -64,10 +59,11 @@ I enjoy solving complex problems and continuously learning new technologies. <br
 ⏰ Time Management <br>
 🎯 Mentorship <br>
 
+
 🚀 PROJECTS
 
 🗨️ DevTalks - Interactive MERN Stack Forum Platform with Role-Based Access <br>
-🔗 LIVE DEMO
+🔗 [LIVE DEMO](https://devtalks-asg12.web.app/)  
  <br>
 ✨ Key Features: <br>
 🔒 Secure authentication with Firebase Auth and JWT (Email/Password + Google login) <br>
@@ -77,7 +73,7 @@ I enjoy solving complex problems and continuously learning new technologies. <br
 ⚙️ Tech Stack: React.js | Stripe | Firebase Auth | Node.js | Express.js | MongoDB | JWT | Vercel <br><br>
 
 📚 CourseHub - Comprehensive Course Management Platform <br>
-🔗 LIVE DEMO
+🔗 [LIVE DEMO](https://coursehub-7fd47.web.app/)  
  <br>
 ✨ Key Features: <br>
 👨‍🎓 User registration & secure login (Firebase Auth) <br>
@@ -86,7 +82,7 @@ I enjoy solving complex problems and continuously learning new technologies. <br
 ⚙️ Tech Stack: React.js | Firebase Auth | Node.js | Express.js | MongoDB | JWT | Vercel <br><br>
 
 💼 Task Match - Freelance Task Marketplace with Real-Time Bidding <br>
-🔗 LIVE DEMO
+🔗 [LIVE DEMO](https://grapes-market.web.app/)  
  <br>
 ✨ Key Features: <br>
 📝 Post & manage tasks with title, category, deadline, budget <br>
@@ -95,7 +91,7 @@ I enjoy solving complex problems and continuously learning new technologies. <br
 ⚙️ Tech Stack: React.js | Tailwind CSS | Node.js | Express.js | MongoDB | Firebase Auth | JWT | Vercel <br><br>
 
 🎨 PortfoGen - Modern CV Generator with Live Preview & Themes <br>
-🔗 LIVE DEMO
+🔗 [LIVE DEMO](https://yousuf-portfolio-generator.netlify.app/)
  <br>
 ✨ Key Features: <br>
 📑 5+ responsive CV templates with light/dark mode <br>
@@ -123,4 +119,4 @@ I enjoy solving complex problems and continuously learning new technologies. <br
 
 👨‍💻 Developed By
 
-MD. YOUSUF ALI 🌐 yousufali-portfolio.vercel.app
+[MD. YOUSUF ALI] 🌐 [yousufali-portfolio.vercel.app](https://yousufali-portfolio.vercel.app)
