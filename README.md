@@ -8,13 +8,13 @@
 
 📱 Phone: +8801754954385
 
-📧 Email: mdyousufali.dev@gmail.com
+📧 Email: mailto:mdyousufali.dev@gmail.com
 
-🌐 Portfolio: yousufali-portfolio.vercel.app
+🌐 Portfolio: (yousufali-portfolio.vercel.app)
 
-🐙 GitHub: github.com/yousufali156
+🐙 GitHub: (github.com/yousufali156)
 
-💼 LinkedIn: linkedin.com/in/yousufali156
+💼 LinkedIn: (linkedin.com/in/yousufali156)
 
 
 👨‍💻 ABOUT ME
